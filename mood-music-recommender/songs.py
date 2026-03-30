@@ -1,18 +1,25 @@
 songs = {
     "happy": [
-        "Happy - Pharrell Williams",
-        "Good Time - Owl City",
-        "Can't Stop The Feeling - Justin Timberlake"
+        "Dhurandar - Shararat",
+        "Paradise - Aaya Sher",
+        "Devara - Ayudha Pooja",
+        "Yama Donga - Young Yama",
+        "Pokiri - Chudaduantuna"
     ],
     "sad": [
-        "Someone Like You - Adele",
-        "Fix You - Coldplay",
-        "Let Her Go - Passenger"
+        "DUDE - OST",
+        "Aravinda sametha veera ragava - Peneveeti",
+        "Arjun Reddy - Break UP"
+        "Ninu Kori - Adiga Adiga",
+        "Nanaku Prematho - Love Me Again",
+        "Hi Nana - Adiga"
     ],
     "calm": [
-        "Weightless - Ambient",
-        "Ocean Waves Relaxation",
-        "Soft Piano Meditation"
+        "Nuvvasthanante nen odhuantana - chendrudulo",
+        "Tholi Prema - EE manase",
+        "Aatharintiki dharedhi - Ninu chudagane",
+        "Khaleja - Piliche",
+        "Ekadaki pothavu Chinavada - Chirunama Thana Chirunama",
     ],
     "angry": [
         "Stronger - Kanye West",
