@@ -4,7 +4,10 @@ songs = {
         "Paradise - Aaya Sher",
         "Devara - Ayudha Pooja",
         "Yama Donga - Young Yama",
-        "Pokiri - Chudaduantuna"
+        "Pokiri - Chudaduantuna",
+        "Ala vikunta Puramloo - Samajavragamana",
+        "Anshra King - Nuv Vunte Chale",
+        "Ori devuda - Gundellona"
     ],
     "sad": [
         "DUDE - OST",
