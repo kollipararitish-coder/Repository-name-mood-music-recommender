@@ -12,10 +12,10 @@ songs = {
     "sad": [
         "DUDE - OST",
         "Aravinda sametha veera ragava - Peneveeti",
-        "Arjun Reddy - Break UP"
+        "Arjun Reddy - Break UP",
         "Ninu Kori - Adiga Adiga",
         "Nanaku Prematho - Love Me Again",
-        "Hi Nana - Adiga"
+        "Hi Nana - Adiga",
         "Rangastlam - Orayyo",
         "MR.Perfect - badhuli Tochani",
         "Love Today - Pranam pothuna",
